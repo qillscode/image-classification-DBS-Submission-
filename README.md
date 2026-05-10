@@ -1,5 +1,7 @@
 # Klasifikasi Gambar Bunga (Flowers Dataset)
 
+Proyek ini dibuat sebagai submission untuk kelas Fundamental Deep Learning di Dicoding, yang merupakan bagian dari program powered by DBS Foundation.
+
 ## Deskripsi Proyek
 Proyek ini membangun model klasifikasi gambar untuk mengenali 5 jenis bunga:
 
