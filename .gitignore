@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+
+# IDEs and editor folders
+.vscode/
+.idea/
+
+# Byte-compiled / distribution
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TensorFlow / model artifacts (large binaries) — usually exclude these
+saved_model/
+saved_model.pb
+fingerprint.pb
+variables/
+
+# TensorFlow.js / Web models
+tfjs_model/
+
+# TFLite (exclude if you don't want large binaries in repo)
+tflite/
+*.tflite
+
+# Protobufs and checkpoints
+*.pb
+checkpoint
+
+# Other caches
+.pytest_cache/
+.mypy_cache/
+
+# If you intentionally want to keep a specific model file, remove it from this .gitignore
